@@ -9,6 +9,7 @@ En este sprint aprendimos sobre Listas
 En este sprint aprendimos sobre bucles y condicionales
 
 ## Sprint 3: Procesamiento de datos I
+En este sprint aprendimos a usar las siguientes librerias:
 
 ## Sprint 4: Procesamiento de datos II
 
