@@ -5,6 +5,7 @@ Portafolio de los proyectos realizados en el bootcamp de analisis de datos
 ## Sprint 1: Python Basico I
 
 ## Sprint 2: Python Basico II
+En este sprint aprendimos sobre bucles y condicionales
 
 ## Sprint 3: Procesamiento de datos I
 
